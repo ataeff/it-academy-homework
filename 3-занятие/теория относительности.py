@@ -1,4 +1,7 @@
-#-------------theory of relativity
+"""theory of relativity"""""
+# --- Atayev Akmuhammet
+# Lab 3.2
+
 import math
 
 c = 299792458

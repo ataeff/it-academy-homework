@@ -1,4 +1,7 @@
-#------------ the fridge and the door with iterables
+"""the fridge and the door with iterables"""""
+# --- Atayev Akmuhammet
+# Lab 3.3
+
 import random
 
 def fridge(a, b):
