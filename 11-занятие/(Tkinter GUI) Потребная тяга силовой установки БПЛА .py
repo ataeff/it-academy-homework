@@ -3,6 +3,9 @@
 ~~~~~~~~~~~~ПОТРЕБНАЯ ТЯГА СИЛОВОЙ УСТАНОВКИ БПЛА~~~~~~~~~~~
 --------------------- Tkinter App -----------------
 """""
+# Atayev Akmuhammet
+# Lab 11.2
+
 
 from tkinter import *
 import math as mt
